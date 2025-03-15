@@ -39,7 +39,8 @@ It also lets you seek to a point and pause, play, rewind and forward.
 - Click anywhere in the progress bar to seek the media to that position.
 - Rewind, Pause, and Forward buttons work as in any player.
 - Middle Click (scroll wheel push down) on the skin to refresh it if it is not behaving correctly.
-
+- Hover over the cover art to see the album name
+  
 ### Known Issues
 
 - When the taskbar takes focus, the skin will not be visible, even for a little time after it loses focus. AFAIK there is no way to prevent this, as the taskbar's purpose when used is to always be visible over everything.
