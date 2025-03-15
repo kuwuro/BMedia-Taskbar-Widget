@@ -8,7 +8,9 @@
 - (personal taste) Improvements to general look
 - (personal taste) Removed the volume control - didn't work with Spotify
 
---------------------------------------------------------------------------------------------
+![](https://github.com/kuwuro/BMedia-Taskbar-Widget/blob/master/Screenshot.png)
+
+---
 
 ![](https://github.com/rohandf/BMedia-Taskbar-Widget/blob/master/showcase.gif)  
 This is a Rainmeter skin that lets you see what's playing, its progress, and album art/thumbnail.  
