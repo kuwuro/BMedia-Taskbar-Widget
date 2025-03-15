@@ -8,6 +8,8 @@
 - (personal taste) Improvements to general look
 - (personal taste) Removed the volume control - didn't work with Spotify
 
+--------------------------------------------------------------------------------------------
+
 ![](https://github.com/rohandf/BMedia-Taskbar-Widget/blob/master/showcase.gif)  
 This is a Rainmeter skin that lets you see what's playing, its progress, and album art/thumbnail.  
 It also lets you seek to a point and pause, play, rewind and forward.
